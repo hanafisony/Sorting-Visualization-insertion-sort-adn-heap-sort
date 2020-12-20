@@ -1,1 +1,1 @@
-# Sorting-Visualization-insertion-sort-adn-heap-sort
+# Sorting-Visualizer-insertion-sort-and-heap-sort
